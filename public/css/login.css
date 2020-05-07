@@ -1,0 +1,14 @@
+.panel-default{
+    margin: auto;
+    margin-top: 5%;
+    border: 0.5px solid #c6c0c0;
+    padding: 4% 0;
+}
+.login-panel{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.panel-heading{
+    margin-bottom: 20px;
+}

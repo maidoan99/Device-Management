@@ -1,0 +1,25 @@
+.panel-heading {
+    position: relative;
+    width: 125%;
+    left: -10%;
+    height: 50px;
+}
+.panel-heading-item{
+    position: relative;
+    right: 0;
+    padding: 0 3px;
+    vertical-align: middle;
+    height: 100%;
+
+}
+.panel-heading-item.edit-user{
+    max-width: 333px;
+    overflow: hidden;
+}
+.panel-heading-item.item-btn button {
+    height: 50px;
+    line-height: 20px;
+}
+h4.panel-title {
+    line-height: 50px;
+}
